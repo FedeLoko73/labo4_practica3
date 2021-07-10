@@ -1,0 +1,9 @@
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\bin\Practica3.dll
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\bin\Practica3.pdb
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\bin\Practica3.xml
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\obj\Debug\Practica3.Resources.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\obj\Debug\Practica3.vbproj.GenerateResource.Cache
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\obj\Debug\Practica3.dll
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\obj\Debug\Practica3.xml
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Practica3\Practica3\obj\Debug\Practica3.pdb
